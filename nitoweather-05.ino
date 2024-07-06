@@ -1,5 +1,4 @@
-cpp
-Copy code
+
 /*
  * Proyecto: Monitor de Sensor con ESP32 y Pantalla OLED
  * Versión: 0.5
